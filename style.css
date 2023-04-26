@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body {
+    background-color:lightpink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:midnightblue;
+
+}
+
+img {
+    border-radius: 50%;
+}
+
+h1 {
+    background-color:lightcoral;
+    background-position:center;
+    opacity: 0.5;
+    text-align:center;
+    color:midnightblue;
+}
+fieldset {
+    border-color:midnightblue;
+border-style: double
+}
+h6 {
+    font-size: 10px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+p{
+    text-align: justify;
+}
+
