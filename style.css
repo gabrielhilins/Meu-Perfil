@@ -20,7 +20,7 @@ h1 {
     color:midnightblue;
 }
 fieldset {
-    border-color:midnightblue;
+    border-color:deeppink;
 border-style: double
 }
 h6 {
@@ -31,4 +31,3 @@ h6 {
 p{
     text-align: justify;
 }
-
